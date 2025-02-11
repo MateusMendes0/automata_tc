@@ -29,6 +29,13 @@ uvicorn main:app --reload
 Visite http://127.0.0.1:8000
 Ou http://127.0.0.1:8000/docs
 ```
+## TIPOS
+
+### AFD : AUTÔMATO FINITO DETERMINÍSTICO
+
+### APD : AUTÔMATO COM PILHA
+
+### MT : MÁQUINA DE TURING
 
 ## POST /{tipo}/criar
 
